@@ -1,4 +1,15 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF4499&width=435&lines=HELLO+WORLD!+I'm+Adryan+Freitas.;I+am+a+Full+Stack+Web+Developer.;Majoring+in+computer+engineering.;Passionate+about+crafting+solutions.;I'm+from+Brazil.;Be+Welcome+!)](https://git.io/typing-svg)
+# Welcome! 👋
+
+### Hello, World! 👋
+
+#### I'm Adryan Freitas
+
+- **Full-Stack Web Developer** passionate about creating innovative and efficient solutions.
+- **Majoring in Computer Engineering** with a strong foundation in technology and software development.
+- Currently diving deep into the **Data Science** field to broaden my expertise.
+- Excited to collaborate on impactful projects and explore new challenges in the tech world.
+
+Welcome to my world of tech and creativity! 🚀
 
 <div align="center"> 
 <a href = "mailto:adryansfreitas@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
